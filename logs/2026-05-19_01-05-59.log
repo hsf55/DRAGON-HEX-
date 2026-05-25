@@ -1,0 +1,311 @@
+[01:06:00] [STORAGE] All Ignore data cache initialized [ok]
+[01:06:00] [STORAGE] All Ban data cache initialized [ok]
+[01:06:00] [STORAGE] All Automod cache initialized [ok]
+[01:06:00] [STORAGE] All Custom roles cache initialized [ok]
+[01:06:00] [STORAGE] All Custom roles permissions cache initialized [ok]
+[01:06:00] [STORAGE] All Media channels cache initialized [ok]
+[01:06:00] [STORAGE] All Auto responder cache initialized [ok]
+[01:06:00] [STORAGE] All Giveaways cache initialized [ok]
+[01:06:00] [STORAGE] All Giveaways permissions cache initialized [ok]
+[01:06:00] [STORAGE] All Ticket settings cache initialized [ok]
+[01:06:00] [STORAGE] All Shop cache initialized [ok]
+[01:06:00] [STORAGE] All Music cache initialized [ok]
+[01:06:00] [STORAGE] All Command Access cache initialized
+[01:06:09] [INFO] Connected to Mongo storage
+[01:06:09] [INFO] Database collection guilds_backup ready
+[01:06:09] [INFO] Database collection giveaway_participants ready
+[01:06:10] [INFO] Database collection custom_roles ready
+[01:06:10] [INFO] Database collection command_access ready
+[01:06:10] [INFO] Database collection giveaways_permissions ready
+[01:06:10] [INFO] Database collection tickets ready
+[01:06:10] [INFO] Database collection antinuke_settings ready
+[01:06:10] [INFO] Database collection ticket_settings ready
+[01:06:10] [INFO] Database collection auto_responder ready
+[01:06:10] [INFO] Database collection redeem_codes ready
+[01:06:10] [INFO] Database collection guilds_log ready
+[01:06:10] [INFO] Database collection custom_roles_permissions ready
+[01:06:10] [INFO] Database collection welcomer_settings ready
+[01:06:10] [INFO] Database collection afk ready
+[01:06:10] [INFO] Database collection automod ready
+[01:06:10] [INFO] Database collection guilds ready
+[01:06:10] [INFO] Database collection users ready
+[01:06:10] [INFO] Database collection music ready
+[01:06:10] [INFO] Database collection snipe_data ready
+[01:06:10] [INFO] Database collection media_channels ready
+[01:06:10] [INFO] Database collection giveaways ready
+[01:06:10] [INFO] Database collection ban_data ready
+[01:06:10] [INFO] Database collection ignore_data ready
+[01:06:10] [INFO] Database collection antinuke_bypass ready
+[01:06:10] [INFO] Database collection shop ready
+[01:06:11] [INFO] Database collection j2c_settings ready
+[01:06:11] [INFO] Database collection j2c ready
+[01:06:11] [STORAGE] Database collections loaded
+[01:06:11] [STORAGE] All Guilds cache loaded [ok]
+[01:06:11] [STORAGE] All Custom roles cache loaded [ok]
+[01:06:11] [STORAGE] All Redeem codes cache loaded [ok]
+[01:06:11] [STORAGE] All Users cache loaded [ok]
+[01:06:11] [STORAGE] All Antinuke bypass cache loaded [ok]
+[01:06:11] [STORAGE] All Antinuke settings cache loaded [ok]
+[01:06:11] [STORAGE] All AFK cache loaded [ok]
+[01:06:11] [STORAGE] All J2C settings cache loaded [ok]
+[01:06:11] [STORAGE] All Snipe data cache loaded [ok]
+[01:06:11] [STORAGE] All Auto responder cache loaded [ok]
+[01:06:11] [STORAGE] All Media channels cache loaded [ok]
+[01:06:11] [STORAGE] All Music cache loaded [ok]
+[01:06:11] [STORAGE] All Guilds backup cache loaded [ok]
+[01:06:11] [STORAGE] All Welcomer settings cache loaded [ok]
+[01:06:11] [STORAGE] All Ignore data cache loaded [ok]
+[01:06:11] [STORAGE] All Automod cache loaded [ok]
+[01:06:11] [STORAGE] All Custom roles permissions cache loaded [ok]
+[01:06:11] [STORAGE] All Giveaways permissions cache loaded [ok]
+[01:06:11] [STORAGE] All Shop cache loaded [ok]
+[01:06:11] [STORAGE] All Ticket settings cache loaded [ok]
+[01:06:11] [STORAGE] All J2C cache loaded [ok]
+[01:06:11] [STORAGE] All Command Access cache loaded
+[01:06:12] [STORAGE] All Guilds log cache loaded [ok]
+[01:06:12] [STORAGE] All Giveaways cache loaded [ok]
+[01:06:12] [SUCCESS] All cache systems synchronized! [ok]
+[01:06:12] [SYSTEM] [35m★ Starting Native Application Emoji Sync...[0m
+[01:06:15] [INFO] [36m◈ Config Search:[0m Found [33m88[0m unique templates [90m|[0m Application hosts [32m0[0m App Emojis
+[01:06:15] [INFO] [34m↑ Uploading:[0m logging [90m(Not found on Discord)[0m
+[01:06:17] [SUCCESS] [32m✔ Target Uploaded:[0m logging [90m[Saved as ID: 1506017609789734912][0m
+[01:06:17] [INFO] [34m↑ Uploading:[0m next_black [90m(Not found on Discord)[0m
+[01:06:19] [SUCCESS] [32m✔ Target Uploaded:[0m next_black [90m[Saved as ID: 1506017618103111701][0m
+[01:06:19] [INFO] [34m↑ Uploading:[0m Meko_Welcome [90m(Not found on Discord)[0m
+[01:06:21] [SUCCESS] [32m✔ Target Uploaded:[0m Meko_Welcome [90m[Saved as ID: 1506017626323943505][0m
+[01:06:21] [INFO] [34m↑ Uploading:[0m daily [90m(Not found on Discord)[0m
+[01:06:23] [SUCCESS] [32m✔ Target Uploaded:[0m daily [90m[Saved as ID: 1506017634293125313][0m
+[01:06:23] [INFO] [34m↑ Uploading:[0m MekoMod [90m(Not found on Discord)[0m
+[01:06:25] [SUCCESS] [32m✔ Target Uploaded:[0m MekoMod [90m[Saved as ID: 1506017642207641660][0m
+[01:06:25] [INFO] [34m↑ Uploading:[0m J2C [90m(Not found on Discord)[0m
+[01:06:27] [SUCCESS] [32m✔ Target Uploaded:[0m J2C [90m[Saved as ID: 1506017651183587489][0m
+[01:06:27] [INFO] [34m↑ Uploading:[0m Support [90m(Not found on Discord)[0m
+[01:06:29] [SUCCESS] [32m✔ Target Uploaded:[0m Support [90m[Saved as ID: 1506017658938851389][0m
+[01:06:29] [INFO] [34m↑ Uploading:[0m MekoHome [90m(Not found on Discord)[0m
+[01:06:31] [SUCCESS] [32m✔ Target Uploaded:[0m MekoHome [90m[Saved as ID: 1506017667247636510][0m
+[01:06:31] [INFO] [34m↑ Uploading:[0m resume [90m(Not found on Discord)[0m
+[01:06:33] [SUCCESS] [32m✔ Target Uploaded:[0m resume [90m[Saved as ID: 1506017675057565767][0m
+[01:06:33] [INFO] [34m↑ Uploading:[0m MekoLoading [90m(Not found on Discord)[0m
+[01:06:35] [SUCCESS] [32m✔ Target Uploaded:[0m MekoLoading [90m[Saved as ID: 1506017685392330752][0m
+[01:06:35] [INFO] [34m↑ Uploading:[0m id [90m(Not found on Discord)[0m
+[01:06:37] [SUCCESS] [32m✔ Target Uploaded:[0m id [90m[Saved as ID: 1506017693839392881][0m
+[01:06:37] [INFO] [34m↑ Uploading:[0m Warning [90m(Not found on Discord)[0m
+[01:06:39] [SUCCESS] [32m✔ Target Uploaded:[0m Warning [90m[Saved as ID: 1506017701695459430][0m
+[01:06:39] [INFO] [34m↑ Uploading:[0m disabled [90m(Not found on Discord)[0m
+[01:06:41] [SUCCESS] [32m✔ Target Uploaded:[0m disabled [90m[Saved as ID: 1506017710138593310][0m
+[01:06:41] [INFO] [34m↑ Uploading:[0m transfer [90m(Not found on Discord)[0m
+[01:06:43] [SUCCESS] [32m✔ Target Uploaded:[0m transfer [90m[Saved as ID: 1506017718900359289][0m
+[01:06:43] [INFO] [34m↑ Uploading:[0m Baldwin [90m(Not found on Discord)[0m
+[01:06:45] [SUCCESS] [32m✔ Target Uploaded:[0m Baldwin [90m[Saved as ID: 1506017726815014912][0m
+[01:06:45] [INFO] [34m↑ Uploading:[0m General [90m(Not found on Discord)[0m
+[01:06:47] [SUCCESS] [32m✔ Target Uploaded:[0m General [90m[Saved as ID: 1506017735207817409][0m
+[01:06:47] [INFO] [34m↑ Uploading:[0m 9519donordiamond [90m(Not found on Discord)[0m
+[01:06:49] [SUCCESS] [32m✔ Target Uploaded:[0m 9519donordiamond [90m[Saved as ID: 1506017743848341524][0m
+[01:06:49] [INFO] [34m↑ Uploading:[0m Setup [90m(Not found on Discord)[0m
+[01:06:51] [SUCCESS] [32m✔ Target Uploaded:[0m Setup [90m[Saved as ID: 1506017752014651502][0m
+[01:06:51] [INFO] [34m↑ Uploading:[0m stop [90m(Not found on Discord)[0m
+[01:06:53] [SUCCESS] [32m✔ Target Uploaded:[0m stop [90m[Saved as ID: 1506017760306663615][0m
+[01:06:53] [INFO] [34m↑ Uploading:[0m loading [90m(Not found on Discord)[0m
+[01:06:56] [SUCCESS] [32m✔ Target Uploaded:[0m loading [90m[Saved as ID: 1506017770402349226][0m
+[01:06:56] [INFO] [34m↑ Uploading:[0m GWKick [90m(Not found on Discord)[0m
+[01:06:58] [SUCCESS] [32m✔ Target Uploaded:[0m GWKick [90m[Saved as ID: 1506017778799345888][0m
+[01:06:58] [INFO] [34m↑ Uploading:[0m economy [90m(Not found on Discord)[0m
+[01:07:00] [SUCCESS] [32m✔ Target Uploaded:[0m economy [90m[Saved as ID: 1506017786735099997][0m
+[01:07:00] [INFO] [34m↑ Uploading:[0m music [90m(Not found on Discord)[0m
+[01:07:02] [SUCCESS] [32m✔ Target Uploaded:[0m music [90m[Saved as ID: 1506017796646244554][0m
+[01:07:02] [INFO] [34m↑ Uploading:[0m autoroles [90m(Not found on Discord)[0m
+[01:07:04] [SUCCESS] [32m✔ Target Uploaded:[0m autoroles [90m[Saved as ID: 1506017805143904376][0m
+[01:07:04] [INFO] [34m↑ Uploading:[0m pingg [90m(Not found on Discord)[0m
+[01:07:06] [SUCCESS] [32m✔ Target Uploaded:[0m pingg [90m[Saved as ID: 1506017813859405975][0m
+[01:07:06] [INFO] [34m↑ Uploading:[0m Key [90m(Not found on Discord)[0m
+[01:07:08] [SUCCESS] [32m✔ Target Uploaded:[0m Key [90m[Saved as ID: 1506017823078482132][0m
+[01:07:08] [INFO] [34m↑ Uploading:[0m automod [90m(Not found on Discord)[0m
+[01:07:10] [SUCCESS] [32m✔ Target Uploaded:[0m automod [90m[Saved as ID: 1506017832159154176][0m
+[01:07:10] [INFO] [34m↑ Uploading:[0m MekoChannel [90m(Not found on Discord)[0m
+[01:07:12] [SUCCESS] [32m✔ Target Uploaded:[0m MekoChannel [90m[Saved as ID: 1506017840459681913][0m
+[01:07:12] [INFO] [34m↑ Uploading:[0m failed [90m(Not found on Discord)[0m
+[01:07:15] [SUCCESS] [32m✔ Target Uploaded:[0m failed [90m[Saved as ID: 1506017850127552752][0m
+[01:07:15] [WARNING] [33m↻ Auto-Fixing ID:[0m music [90m->[0m 1506017796646244554
+[01:07:15] [INFO] [34m↑ Uploading:[0m Delete [90m(Not found on Discord)[0m
+[01:07:17] [SUCCESS] [32m✔ Target Uploaded:[0m Delete [90m[Saved as ID: 1506017858763751504][0m
+[01:07:17] [INFO] [34m↑ Uploading:[0m MekoSetting [90m(Not found on Discord)[0m
+[01:07:19] [SUCCESS] [32m✔ Target Uploaded:[0m MekoSetting [90m[Saved as ID: 1506017868821827585][0m
+[01:07:19] [INFO] [34m↑ Uploading:[0m welcomer [90m(Not found on Discord)[0m
+[01:07:21] [SUCCESS] [32m✔ Target Uploaded:[0m welcomer [90m[Saved as ID: 1506017876597805249][0m
+[01:07:21] [INFO] [34m↑ Uploading:[0m user [90m(Not found on Discord)[0m
+[01:07:23] [SUCCESS] [32m✔ Target Uploaded:[0m user [90m[Saved as ID: 1506017884760047838][0m
+[01:07:23] [INFO] [34m↑ Uploading:[0m success [90m(Not found on Discord)[0m
+[01:07:25] [SUCCESS] [32m✔ Target Uploaded:[0m success [90m[Saved as ID: 1506017892783751218][0m
+[01:07:25] [INFO] [34m↑ Uploading:[0m Unban [90m(Not found on Discord)[0m
+[01:07:27] [SUCCESS] [32m✔ Target Uploaded:[0m Unban [90m[Saved as ID: 1506017900874567931][0m
+[01:07:27] [INFO] [34m↑ Uploading:[0m astroid [90m(Not found on Discord)[0m
+[01:07:29] [SUCCESS] [32m✔ Target Uploaded:[0m astroid [90m[Saved as ID: 1506017909246529657][0m
+[01:07:29] [INFO] [34m↑ Uploading:[0m Invite [90m(Not found on Discord)[0m
+[01:07:31] [SUCCESS] [32m✔ Target Uploaded:[0m Invite [90m[Saved as ID: 1506017917525954681][0m
+[01:07:31] [INFO] [34m↑ Uploading:[0m editor [90m(Not found on Discord)[0m
+[01:07:33] [SUCCESS] [32m✔ Target Uploaded:[0m editor [90m[Saved as ID: 1506017926220746894][0m
+[01:07:33] [INFO] [34m↑ Uploading:[0m Custom [90m(Not found on Discord)[0m
+[01:07:35] [SUCCESS] [32m✔ Target Uploaded:[0m Custom [90m[Saved as ID: 1506017934307495946][0m
+[01:07:35] [INFO] [34m↑ Uploading:[0m position [90m(Not found on Discord)[0m
+[01:07:37] [SUCCESS] [32m✔ Target Uploaded:[0m position [90m[Saved as ID: 1506017943358541825][0m
+[01:07:37] [INFO] [34m↑ Uploading:[0m update [90m(Not found on Discord)[0m
+[01:07:39] [SUCCESS] [32m✔ Target Uploaded:[0m update [90m[Saved as ID: 1506017951558537276][0m
+[01:07:39] [WARNING] [33m↻ Auto-Fixing ID:[0m loading [90m->[0m 1506017770402349226
+[01:07:39] [INFO] [34m↑ Uploading:[0m BAN [90m(Not found on Discord)[0m
+[01:07:41] [SUCCESS] [32m✔ Target Uploaded:[0m BAN [90m[Saved as ID: 1506017960232226957][0m
+[01:07:41] [INFO] [34m↑ Uploading:[0m Enabled [90m(Not found on Discord)[0m
+[01:07:43] [SUCCESS] [32m✔ Target Uploaded:[0m Enabled [90m[Saved as ID: 1506017968578887681][0m
+[01:07:43] [INFO] [34m↑ Uploading:[0m loop [90m(Not found on Discord)[0m
+[01:07:45] [SUCCESS] [32m✔ Target Uploaded:[0m loop [90m[Saved as ID: 1506017976833544192][0m
+[01:07:45] [INFO] [34m↑ Uploading:[0m guild [90m(Not found on Discord)[0m
+[01:07:47] [SUCCESS] [32m✔ Target Uploaded:[0m guild [90m[Saved as ID: 1506017985284931794][0m
+[01:07:47] [INFO] [34m↑ Uploading:[0m edit [90m(Not found on Discord)[0m
+[01:07:49] [SUCCESS] [32m✔ Target Uploaded:[0m edit [90m[Saved as ID: 1506017993434468524][0m
+[01:07:49] [INFO] [34m↑ Uploading:[0m info [90m(Not found on Discord)[0m
+[01:07:51] [SUCCESS] [32m✔ Target Uploaded:[0m info [90m[Saved as ID: 1506018001714020483][0m
+[01:07:51] [INFO] [34m↑ Uploading:[0m name [90m(Not found on Discord)[0m
+[01:07:53] [SUCCESS] [32m✔ Target Uploaded:[0m name [90m[Saved as ID: 1506018010190581842][0m
+[01:07:53] [INFO] [34m↑ Uploading:[0m premium_avon [90m(Not found on Discord)[0m
+[01:07:56] [SUCCESS] [32m✔ Target Uploaded:[0m premium_avon [90m[Saved as ID: 1506018022190612580][0m
+[01:07:56] [INFO] [34m↑ Uploading:[0m reset [90m(Not found on Discord)[0m
+[01:07:58] [SUCCESS] [32m✔ Target Uploaded:[0m reset [90m[Saved as ID: 1506018030826688583][0m
+[01:07:58] [INFO] [34m↑ Uploading:[0m MekoUser [90m(Not found on Discord)[0m
+[01:08:00] [SUCCESS] [32m✔ Target Uploaded:[0m MekoUser [90m[Saved as ID: 1506018039156703272][0m
+[01:08:00] [INFO] [34m↑ Uploading:[0m Back [90m(Not found on Discord)[0m
+[01:08:02] [SUCCESS] [32m✔ Target Uploaded:[0m Back [90m[Saved as ID: 1506018047419486290][0m
+[01:08:02] [INFO] [34m↑ Uploading:[0m setup [90m(Not found on Discord)[0m
+[01:08:04] [SUCCESS] [32m✔ Target Uploaded:[0m setup [90m[Saved as ID: 1506018055816347750][0m
+[01:08:04] [INFO] [34m↑ Uploading:[0m MekoFun [90m(Not found on Discord)[0m
+[01:08:06] [SUCCESS] [32m✔ Target Uploaded:[0m MekoFun [90m[Saved as ID: 1506018064473260042][0m
+[01:08:06] [INFO] [34m↑ Uploading:[0m ping_avon [90m(Not found on Discord)[0m
+[01:08:08] [SUCCESS] [32m✔ Target Uploaded:[0m ping_avon [90m[Saved as ID: 1506018072698290206][0m
+[01:08:08] [INFO] [34m↑ Uploading:[0m coin [90m(Not found on Discord)[0m
+[01:08:10] [SUCCESS] [32m✔ Target Uploaded:[0m coin [90m[Saved as ID: 1506018082387398836][0m
+[01:08:10] [INFO] [34m↑ Uploading:[0m category [90m(Not found on Discord)[0m
+[01:08:12] [SUCCESS] [32m✔ Target Uploaded:[0m category [90m[Saved as ID: 1506018090255777925][0m
+[01:08:12] [INFO] [34m↑ Uploading:[0m Ticket [90m(Not found on Discord)[0m
+[01:08:14] [SUCCESS] [32m✔ Target Uploaded:[0m Ticket [90m[Saved as ID: 1506018098564825130][0m
+[01:08:14] [INFO] [34m↑ Uploading:[0m Redeemer [90m(Not found on Discord)[0m
+[01:08:16] [SUCCESS] [32m✔ Target Uploaded:[0m Redeemer [90m[Saved as ID: 1506018107725189281][0m
+[01:08:16] [INFO] [34m↑ Uploading:[0m mekoantinuke [90m(Not found on Discord)[0m
+[01:08:18] [SUCCESS] [32m✔ Target Uploaded:[0m mekoantinuke [90m[Saved as ID: 1506018116553936968][0m
+[01:08:18] [INFO] [34m↑ Uploading:[0m leave_ [90m(Not found on Discord)[0m
+[01:08:20] [SUCCESS] [32m✔ Target Uploaded:[0m leave_ [90m[Saved as ID: 1506018125211238430][0m
+[01:08:20] [INFO] [34m↑ Uploading:[0m friction_bots [90m(Not found on Discord)[0m
+[01:08:22] [SUCCESS] [32m✔ Target Uploaded:[0m friction_bots [90m[Saved as ID: 1506018133725544460][0m
+[01:08:22] [INFO] [34m↑ Uploading:[0m next [90m(Not found on Discord)[0m
+[01:08:25] [SUCCESS] [32m✔ Target Uploaded:[0m next [90m[Saved as ID: 1506018143116595341][0m
+[01:08:25] [INFO] [34m↑ Uploading:[0m Extra [90m(Not found on Discord)[0m
+[01:08:27] [SUCCESS] [32m✔ Target Uploaded:[0m Extra [90m[Saved as ID: 1506018151412797540][0m
+[01:08:27] [INFO] [34m↑ Uploading:[0m error [90m(Not found on Discord)[0m
+[01:08:28] [SUCCESS] [32m✔ Target Uploaded:[0m error [90m[Saved as ID: 1506018159553937580][0m
+[01:08:28] [INFO] [34m↑ Uploading:[0m Commands [90m(Not found on Discord)[0m
+[01:08:30] [SUCCESS] [32m✔ Target Uploaded:[0m Commands [90m[Saved as ID: 1506018167410130974][0m
+[01:08:30] [INFO] [34m↑ Uploading:[0m created [90m(Not found on Discord)[0m
+[01:08:33] [SUCCESS] [32m✔ Target Uploaded:[0m created [90m[Saved as ID: 1506018176243204108][0m
+[01:08:33] [INFO] [34m↑ Uploading:[0m Message [90m(Not found on Discord)[0m
+[01:08:35] [SUCCESS] [32m✔ Target Uploaded:[0m Message [90m[Saved as ID: 1506018185659285686][0m
+[01:08:35] [INFO] [34m↑ Uploading:[0m coin_back [90m(Not found on Discord)[0m
+[01:08:37] [SUCCESS] [32m✔ Target Uploaded:[0m coin_back [90m[Saved as ID: 1506018193808822392][0m
+[01:08:37] [INFO] [34m↑ Uploading:[0m help [90m(Not found on Discord)[0m
+[01:08:39] [SUCCESS] [32m✔ Target Uploaded:[0m help [90m[Saved as ID: 1506018202876907550][0m
+[01:08:39] [INFO] [34m↑ Uploading:[0m previous [90m(Not found on Discord)[0m
+[01:08:41] [SUCCESS] [32m✔ Target Uploaded:[0m previous [90m[Saved as ID: 1506018210783432746][0m
+[01:08:41] [INFO] [34m↑ Uploading:[0m MekoBoost [90m(Not found on Discord)[0m
+[01:08:43] [SUCCESS] [32m✔ Target Uploaded:[0m MekoBoost [90m[Saved as ID: 1506018219234824202][0m
+[01:08:43] [INFO] [34m↑ Uploading:[0m Preview [90m(Not found on Discord)[0m
+[01:08:45] [SUCCESS] [32m✔ Target Uploaded:[0m Preview [90m[Saved as ID: 1506018226742497490][0m
+[01:08:45] [INFO] [34m↑ Uploading:[0m roles [90m(Not found on Discord)[0m
+[01:08:46] [SUCCESS] [32m✔ Target Uploaded:[0m roles [90m[Saved as ID: 1506018234741031114][0m
+[01:08:46] [INFO] [34m↑ Uploading:[0m juicebox [90m(Not found on Discord)[0m
+[01:08:48] [SUCCESS] [32m✔ Target Uploaded:[0m juicebox [90m[Saved as ID: 1506018242508886167][0m
+[01:08:48] [INFO] [34m↑ Uploading:[0m MekoUnmute [90m(Not found on Discord)[0m
+[01:08:50] [SUCCESS] [32m✔ Target Uploaded:[0m MekoUnmute [90m[Saved as ID: 1506018250893561886][0m
+[01:08:50] [INFO] [34m↑ Uploading:[0m gapple [90m(Not found on Discord)[0m
+[01:08:52] [SUCCESS] [32m✔ Target Uploaded:[0m gapple [90m[Saved as ID: 1506018259420577853][0m
+[01:08:52] [INFO] [34m↑ Uploading:[0m search [90m(Not found on Discord)[0m
+[01:08:55] [SUCCESS] [32m✔ Target Uploaded:[0m search [90m[Saved as ID: 1506018269205893131][0m
+[01:08:55] [INFO] [34m↑ Uploading:[0m MekoRemove [90m(Not found on Discord)[0m
+[01:08:57] [SUCCESS] [32m✔ Target Uploaded:[0m MekoRemove [90m[Saved as ID: 1506018279615893504][0m
+[01:08:57] [INFO] [34m↑ Uploading:[0m join [90m(Not found on Discord)[0m
+[01:09:00] [SUCCESS] [32m✔ Target Uploaded:[0m join [90m[Saved as ID: 1506018289485221970][0m
+[01:09:00] [INFO] [34m↑ Uploading:[0m cp_gold [90m(Not found on Discord)[0m
+[01:09:02] [SUCCESS] [32m✔ Target Uploaded:[0m cp_gold [90m[Saved as ID: 1506018299652341860][0m
+[01:09:02] [INFO] [34m↑ Uploading:[0m webhook [90m(Not found on Discord)[0m
+[01:09:04] [SUCCESS] [32m✔ Target Uploaded:[0m webhook [90m[Saved as ID: 1506018309760614410][0m
+[01:09:04] [INFO] [34m↑ Uploading:[0m emoji_35 [90m(Not found on Discord)[0m
+[01:09:07] [SUCCESS] [32m✔ Target Uploaded:[0m emoji_35 [90m[Saved as ID: 1506018321470849024][0m
+[01:09:07] [INFO] [34m↑ Uploading:[0m admin [90m(Not found on Discord)[0m
+[01:09:10] [SUCCESS] [32m✔ Target Uploaded:[0m admin [90m[Saved as ID: 1506018331919122472][0m
+[01:09:10] [INFO] [34m↑ Uploading:[0m premium [90m(Not found on Discord)[0m
+[01:09:12] [SUCCESS] [32m✔ Target Uploaded:[0m premium [90m[Saved as ID: 1506018342614335640][0m
+[01:09:12] [INFO] [34m↑ Uploading:[0m queue_avon [90m(Not found on Discord)[0m
+[01:09:15] [SUCCESS] [32m✔ Target Uploaded:[0m queue_avon [90m[Saved as ID: 1506018353557540984][0m
+[01:09:15] [SUCCESS] [35m★ EmojiSync Snapshot Saved:[0m Dynamically overwrote [33memoji.py[0m to reflect API state.
+[01:09:15] [SYSTEM] [33m2 ID mismatches fixed[0m[35m★ EmojiSync Completed:[0m [90m|[0m [36m86 newly uploaded[0m
+[01:09:15] [COG] Mounted 39 src units
+[01:09:15] [COG] Ticket creator restored
+[01:09:15] [COG] Ticket closer restored
+[01:09:15] [SUCCESS] REO runtime is online
+[01:09:21] [INFO] Shard 0 is ready
+[01:09:28] [INFO] Shard 1 is ready
+[01:09:28] [SUCCESS] Connected as UI X7#0739
+[01:09:28] [INFO] Total Ticket Modules in Cache Guilds: 1
+[01:09:28] [INFO] Resumed Ticket Creator for all guilds
+[01:09:28] [COG] Active Giveaways Resumed
+[01:09:28] [COG] J2C Controllers Resumed
+[01:09:28] [INFO] Resuming Ticket Creator for guild 1498011447018651648
+[01:09:28] [ERROR] Guild 1498011447018651648 not found for Ticket Creator
+[01:09:28] [INFO] Total Giveaways in Cache Guilds: 0
+[01:09:28] [INFO] Resumed Ticket Closer for all guilds
+[01:09:29] [SYSTEM] Application Commands (Tree) Synced
+[01:09:29] [SYSTEM] Found 1 Authorized Developers
+[01:09:30] [INFO] Connected to Lavalink with 1 nodes
+[01:09:31] [WARNING] Node https://lava-v4.ajieblogs.eu.org:443 is ready!
+[01:10:30] [STORAGE] Guild - 1375136122132496506 cache updated [ok]
+[01:10:30] [STORAGE] Automod - 1375136122132496506 cache updated [ok]
+[01:10:31] [STORAGE] Antinuke settings - 1375136122132496506 cache updated [ok]
+[01:10:31] [STORAGE] Music - 1375136122132496506 cache updated [ok]
+[01:10:32] [STORAGE] Command Access - 1375136122132496506 cache updated
+[01:10:32] [STORAGE] Giveaway permission - 1375136122132496506 cache updated [ok]
+[01:10:33] [STORAGE] Welcomer settings - 1375136122132496506 cache updated [ok]
+[01:10:33] [STORAGE] Ticket settings - 1375136122132496506 - 1 cache updated [ok]
+[01:11:14] [WARNING] Guild mi test has antinuke disabled
+[01:11:14] [WARNING] Guild mi test has antinuke disabled
+[01:11:15] [INFO] Left Guild mi test (1375136122132496506)
+[01:11:34] [INFO] Joined Guild mi test (1375136122132496506)
+[01:12:57] [STORAGE] Automod - 1375136122132496506 cache updated [ok]
+[01:13:13] [WARNING] Guild mi test has antinuke disabled
+[01:13:13] [STORAGE] Automod - 1375136122132496506 cache updated [ok]
+[01:13:33] [INFO] Bot Ping: 260.43ms, Database Response Time: 121.31ms, Cache Response Time: 0.004ms
+[01:14:04] [WARNING] Music controller channel missing for mi test
+[01:14:05] [WARNING] Track KAMALI (Slowed) has started playing on player mi test
+[01:16:08] [INFO] Track end event received for track: KAMALI (Slowed)
+[01:16:09] [INFO] Queue is empty. Disconnected from mi test.
+[01:16:23] [INFO] Antispam is disabled for this guild
+[01:23:50] [INFO] Antispam is disabled for this guild
+[01:23:58] [WARNING] Music controller channel missing for mi test
+[01:23:58] [WARNING] Track KAMALI (Slowed) has started playing on player mi test
+[01:26:33] [INFO] Track end event received for track: KAMALI (Slowed)
+[01:26:34] [INFO] Playing next track: KAMALI (Slowed)
+[01:26:35] [WARNING] Track KAMALI (Slowed) has started playing on player mi test
+[01:26:52] [WARNING] Disconnected from Discord
+[01:26:53] [WARNING] Shard 0 is disconnected
+[01:26:57] [INFO] Reconnected to Discord
+[01:26:58] [INFO] Shard 0 is resumed
+[01:27:53] [INFO] Antispam is disabled for this guild
+[01:29:08] [INFO] Track end event received for track: KAMALI (Slowed)
+[01:29:09] [WARNING] Track KAMALI (Slowed) has started playing on player mi test
+[01:29:09] [INFO] Playing next track: KAMALI (Slowed)
+[01:29:17] [INFO] Antispam is disabled for this guild
+[01:31:43] [INFO] Track end event received for track: KAMALI (Slowed)
+[01:31:44] [WARNING] Track KAMALI (Slowed) has started playing on player mi test
+[01:31:44] [INFO] Playing next track: KAMALI (Slowed)
+[01:34:20] [INFO] Track end event received for track: KAMALI (Slowed)
+[01:34:22] [WARNING] Track KAMALI (Slowed) has started playing on player mi test
+[01:34:22] [INFO] Playing next track: KAMALI (Slowed)
+[01:34:46] [INFO] Track end event received for track: KAMALI (Slowed)
+[01:35:37] [WARNING] Music controller channel missing for mi test
+[01:35:37] [WARNING] Track nasty has started playing on player mi test
+[01:36:05] [INFO] Track end event received for track: nasty
+[01:36:05] [INFO] Queue is empty. Disconnected from mi test.

@@ -1,0 +1,106 @@
+[01:57:50] [STORAGE] All Ignore data cache initialized [ok]
+[01:57:50] [STORAGE] All Ban data cache initialized [ok]
+[01:57:50] [STORAGE] All Automod cache initialized [ok]
+[01:57:50] [STORAGE] All Custom roles cache initialized [ok]
+[01:57:50] [STORAGE] All Custom roles permissions cache initialized [ok]
+[01:57:50] [STORAGE] All Media channels cache initialized [ok]
+[01:57:50] [STORAGE] All Auto responder cache initialized [ok]
+[01:57:50] [STORAGE] All Giveaways cache initialized [ok]
+[01:57:50] [STORAGE] All Giveaways permissions cache initialized [ok]
+[01:57:50] [STORAGE] All Ticket settings cache initialized [ok]
+[01:57:50] [STORAGE] All Shop cache initialized [ok]
+[01:57:50] [STORAGE] All Music cache initialized [ok]
+[01:57:50] [STORAGE] All Command Access cache initialized
+[01:57:55] [INFO] Database collection auto_responder ready
+[01:57:55] [INFO] Connected to Mongo storage
+[01:57:55] [INFO] Database collection giveaway_participants ready
+[01:57:56] [INFO] Database collection giveaways ready
+[01:57:56] [INFO] Database collection redeem_codes ready
+[01:57:56] [INFO] Database collection guilds_backup ready
+[01:57:56] [INFO] Database collection giveaways_permissions ready
+[01:57:56] [INFO] Database collection snipe_data ready
+[01:57:56] [INFO] Database collection ticket_settings ready
+[01:57:56] [INFO] Database collection afk ready
+[01:57:56] [INFO] Database collection ignore_data ready
+[01:57:56] [INFO] Database collection music ready
+[01:57:56] [INFO] Database collection shop ready
+[01:57:56] [INFO] Database collection guilds ready
+[01:57:56] [INFO] Database collection automod ready
+[01:57:56] [INFO] Database collection custom_roles ready
+[01:57:56] [INFO] Database collection antinuke_bypass ready
+[01:57:56] [INFO] Database collection media_channels ready
+[01:57:56] [INFO] Database collection custom_roles_permissions ready
+[01:57:56] [INFO] Database collection antinuke_settings ready
+[01:57:56] [INFO] Database collection j2c_settings ready
+[01:57:56] [INFO] Database collection tickets ready
+[01:57:56] [INFO] Database collection guilds_log ready
+[01:57:56] [INFO] Database collection j2c ready
+[01:57:56] [INFO] Database collection ban_data ready
+[01:57:56] [INFO] Database collection users ready
+[01:57:56] [INFO] Database collection command_access ready
+[01:57:56] [INFO] Database collection welcomer_settings ready
+[01:57:56] [STORAGE] Database collections loaded
+[01:57:57] [STORAGE] All Users cache loaded [ok]
+[01:57:57] [STORAGE] All Redeem codes cache loaded [ok]
+[01:57:57] [STORAGE] All Antinuke bypass cache loaded [ok]
+[01:57:57] [STORAGE] All Guilds backup cache loaded [ok]
+[01:57:57] [STORAGE] All Antinuke settings cache loaded [ok]
+[01:57:57] [STORAGE] All Guilds cache loaded [ok]
+[01:57:57] [STORAGE] All Guilds log cache loaded [ok]
+[01:57:57] [STORAGE] All Welcomer settings cache loaded [ok]
+[01:57:57] [STORAGE] All Automod cache loaded [ok]
+[01:57:57] [STORAGE] All Custom roles permissions cache loaded [ok]
+[01:57:57] [STORAGE] All Giveaways permissions cache loaded [ok]
+[01:57:57] [STORAGE] All Auto responder cache loaded [ok]
+[01:57:57] [STORAGE] All Media channels cache loaded [ok]
+[01:57:57] [STORAGE] All Custom roles cache loaded [ok]
+[01:57:57] [STORAGE] All Giveaways cache loaded [ok]
+[01:57:57] [STORAGE] All Ticket settings cache loaded [ok]
+[01:57:57] [STORAGE] All Shop cache loaded [ok]
+[01:57:57] [STORAGE] All Music cache loaded [ok]
+[01:57:57] [STORAGE] All J2C cache loaded [ok]
+[01:57:57] [STORAGE] All Snipe data cache loaded [ok]
+[01:57:57] [STORAGE] All J2C settings cache loaded [ok]
+[01:57:57] [STORAGE] All Command Access cache loaded
+[01:57:57] [STORAGE] All AFK cache loaded [ok]
+[01:57:57] [STORAGE] All Ignore data cache loaded [ok]
+[01:57:57] [SUCCESS] All cache systems synchronized! [ok]
+[01:57:57] [SYSTEM] [35m★ Starting Native Application Emoji Sync...[0m
+[01:57:59] [INFO] [36m◈ Config Search:[0m Found [33m86[0m unique templates [90m|[0m Application hosts [32m86[0m App Emojis
+[01:57:59] [SYSTEM] [32m86 perfectly matching[0m
+[01:57:59] [COG] Mounted 39 src units
+[01:57:59] [COG] Ticket creator restored
+[01:57:59] [COG] Ticket closer restored
+[01:57:59] [SUCCESS] REO runtime is online
+[01:58:04] [INFO] Shard 0 is ready
+[01:58:10] [INFO] Shard 1 is ready
+[01:58:10] [SUCCESS] Connected as UI X7#0739
+[01:58:10] [INFO] Total Ticket Modules in Cache Guilds: 2
+[01:58:10] [INFO] Resumed Ticket Creator for all guilds
+[01:58:10] [COG] Active Giveaways Resumed
+[01:58:10] [COG] J2C Controllers Resumed
+[01:58:10] [INFO] Resuming Ticket Creator for guild 1498011447018651648
+[01:58:10] [ERROR] Guild 1498011447018651648 not found for Ticket Creator
+[01:58:10] [INFO] Resuming Ticket Creator for guild 1375136122132496506
+[01:58:10] [INFO] Total Ticket Modules in Cache for mi test: 1
+[01:58:10] [INFO] Total Giveaways in Cache Guilds: 0
+[01:58:10] [WARNING] Channel not found for ticket panel message: None
+[01:58:10] [INFO] Resumed Ticket Creator for 1375136122132496506 - Module 1
+[01:58:10] [INFO] Resumed Ticket Closer for all guilds
+[01:58:11] [SYSTEM] Application Commands (Tree) Synced
+[01:58:11] [INFO] Connected to Lavalink with 1 nodes
+[01:58:11] [SYSTEM] Found 1 Authorized Developers
+[01:58:13] [WARNING] Node https://lava-v4.ajieblogs.eu.org:443 is ready!
+[02:05:29] [STORAGE] Guild - 1375136122132496506 cache updated [ok]
+[02:05:34] [STORAGE] Guild - 1375136122132496506 cache updated [ok]
+[02:05:39] [STORAGE] Guild - 1375136122132496506 cache updated [ok]
+[02:06:32] [STORAGE] Giveaway - 1375136122132496506 - 1 cache updated [ok]
+[02:06:33] [STORAGE] Giveaway - 1375136122132496506 - 1 cache updated [ok]
+[02:06:33] [INFO] Giveaway message created in channel 1501992079612706978
+[02:06:34] [INFO] Sleeping for 86397.438227 seconds for giveaway 1 in channel 1501992079612706978
+[02:07:13] [STORAGE] Giveaway - 1375136122132496506 - 1 cache deleted [ok]
+[02:07:13] [ERROR] Giveaway - 1375136122132496506 - 1 already ended
+[02:07:14] [INFO] Giveaway 1 in guild 1375136122132496506 ended
+[02:08:13] [STORAGE] Welcomer settings - 1375136122132496506 cache updated [ok]
+[02:08:42] [STORAGE] Welcomer settings - 1375136122132496506 cache updated [ok]
+[02:08:52] [STORAGE] Welcomer settings - 1375136122132496506 cache updated [ok]

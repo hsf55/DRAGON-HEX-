@@ -1,0 +1,94 @@
+[01:50:52] [STORAGE] All Ignore data cache initialized [ok]
+[01:50:52] [STORAGE] All Ban data cache initialized [ok]
+[01:50:52] [STORAGE] All Automod cache initialized [ok]
+[01:50:52] [STORAGE] All Custom roles cache initialized [ok]
+[01:50:52] [STORAGE] All Custom roles permissions cache initialized [ok]
+[01:50:52] [STORAGE] All Media channels cache initialized [ok]
+[01:50:52] [STORAGE] All Auto responder cache initialized [ok]
+[01:50:52] [STORAGE] All Giveaways cache initialized [ok]
+[01:50:52] [STORAGE] All Giveaways permissions cache initialized [ok]
+[01:50:52] [STORAGE] All Ticket settings cache initialized [ok]
+[01:50:52] [STORAGE] All Shop cache initialized [ok]
+[01:50:52] [STORAGE] All Music cache initialized [ok]
+[01:50:52] [STORAGE] All Command Access cache initialized
+[01:50:57] [INFO] Database collection guilds_backup ready
+[01:50:57] [INFO] Database collection giveaway_participants ready
+[01:50:57] [INFO] Database collection j2c_settings ready
+[01:50:57] [INFO] Database collection custom_roles ready
+[01:50:57] [INFO] Database collection giveaways_permissions ready
+[01:50:57] [INFO] Connected to Mongo storage
+[01:50:57] [INFO] Database collection antinuke_bypass ready
+[01:50:57] [INFO] Database collection tickets ready
+[01:50:57] [INFO] Database collection antinuke_settings ready
+[01:50:57] [INFO] Database collection redeem_codes ready
+[01:50:57] [INFO] Database collection j2c ready
+[01:50:58] [INFO] Database collection custom_roles_permissions ready
+[01:50:58] [INFO] Database collection guilds_log ready
+[01:50:58] [INFO] Database collection media_channels ready
+[01:50:58] [INFO] Database collection ignore_data ready
+[01:50:58] [INFO] Database collection users ready
+[01:50:58] [INFO] Database collection snipe_data ready
+[01:50:58] [INFO] Database collection ticket_settings ready
+[01:50:58] [INFO] Database collection command_access ready
+[01:50:58] [INFO] Database collection guilds ready
+[01:50:58] [INFO] Database collection afk ready
+[01:50:58] [INFO] Database collection shop ready
+[01:50:58] [INFO] Database collection welcomer_settings ready
+[01:50:58] [INFO] Database collection giveaways ready
+[01:50:58] [INFO] Database collection auto_responder ready
+[01:50:58] [INFO] Database collection automod ready
+[01:50:58] [INFO] Database collection music ready
+[01:50:58] [INFO] Database collection ban_data ready
+[01:50:58] [STORAGE] Database collections loaded
+[01:50:58] [STORAGE] All Auto responder cache loaded [ok]
+[01:50:58] [STORAGE] All Users cache loaded [ok]
+[01:50:58] [STORAGE] All J2C settings cache loaded [ok]
+[01:50:58] [STORAGE] All J2C cache loaded [ok]
+[01:50:58] [STORAGE] All Snipe data cache loaded [ok]
+[01:50:58] [STORAGE] All Welcomer settings cache loaded [ok]
+[01:50:58] [STORAGE] All Ignore data cache loaded [ok]
+[01:50:58] [STORAGE] All Command Access cache loaded
+[01:50:58] [STORAGE] All Redeem codes cache loaded [ok]
+[01:50:58] [STORAGE] All Giveaways cache loaded [ok]
+[01:50:58] [STORAGE] All Music cache loaded [ok]
+[01:50:59] [STORAGE] All AFK cache loaded [ok]
+[01:50:59] [STORAGE] All Custom roles permissions cache loaded [ok]
+[01:50:59] [STORAGE] All Giveaways permissions cache loaded [ok]
+[01:50:59] [STORAGE] All Guilds backup cache loaded [ok]
+[01:50:59] [STORAGE] All Automod cache loaded [ok]
+[01:50:59] [STORAGE] All Ticket settings cache loaded [ok]
+[01:50:59] [STORAGE] All Antinuke bypass cache loaded [ok]
+[01:50:59] [STORAGE] All Antinuke settings cache loaded [ok]
+[01:50:59] [STORAGE] All Guilds log cache loaded [ok]
+[01:50:59] [STORAGE] All Guilds cache loaded [ok]
+[01:50:59] [STORAGE] All Shop cache loaded [ok]
+[01:50:59] [STORAGE] All Media channels cache loaded [ok]
+[01:50:59] [STORAGE] All Custom roles cache loaded [ok]
+[01:50:59] [SUCCESS] All cache systems synchronized! [ok]
+[01:50:59] [SYSTEM] [35m★ Starting Native Application Emoji Sync...[0m
+[01:51:01] [INFO] [36m◈ Config Search:[0m Found [33m86[0m unique templates [90m|[0m Application hosts [32m86[0m App Emojis
+[01:51:01] [SYSTEM] [32m86 perfectly matching[0m
+[01:51:01] [COG] Mounted 39 src units
+[01:51:01] [COG] Ticket creator restored
+[01:51:01] [COG] Ticket closer restored
+[01:51:01] [SUCCESS] REO runtime is online
+[01:51:07] [INFO] Shard 0 is ready
+[01:51:12] [INFO] Shard 1 is ready
+[01:51:12] [SUCCESS] Connected as UI X7#0739
+[01:51:12] [INFO] Total Ticket Modules in Cache Guilds: 2
+[01:51:12] [INFO] Resumed Ticket Creator for all guilds
+[01:51:12] [COG] Active Giveaways Resumed
+[01:51:12] [COG] J2C Controllers Resumed
+[01:51:12] [INFO] Resuming Ticket Creator for guild 1498011447018651648
+[01:51:12] [ERROR] Guild 1498011447018651648 not found for Ticket Creator
+[01:51:12] [INFO] Resuming Ticket Creator for guild 1375136122132496506
+[01:51:12] [INFO] Total Ticket Modules in Cache for mi test: 1
+[01:51:12] [INFO] Total Giveaways in Cache Guilds: 0
+[01:51:12] [WARNING] Channel not found for ticket panel message: None
+[01:51:12] [INFO] Resumed Ticket Creator for 1375136122132496506 - Module 1
+[01:51:13] [INFO] Resumed Ticket Closer for all guilds
+[01:51:13] [SYSTEM] Application Commands (Tree) Synced
+[01:51:13] [INFO] Connected to Lavalink with 1 nodes
+[01:51:14] [SYSTEM] Found 1 Authorized Developers
+[01:51:15] [WARNING] Node https://lava-v4.ajieblogs.eu.org:443 is ready!
+[01:55:18] [INFO] Antispam is disabled for this guild
